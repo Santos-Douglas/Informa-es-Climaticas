@@ -1,0 +1,71 @@
+31/02/2023 = VOCE PROGRAMADOR COM RODOLFO MORI
+Senha: #CHEGADEDESCULPAS
+HTML
+Linguagem de marcação de hiper texto (conversa com o site, estrutura)
+o que é tal coisa em uma página de internet.
+
+toda programação em HTML precisa ter:
+<html>
+<head> 
+<body> 
+</body>
+<head/>
+</html>
+
+Mas não precisa digitar sempre essas informações: apenas colocar HTML5
+
+01/02/2023 = VOCE PROGRAMADOR COM RODOLFO MORI
+#ANODAVIRADA
+CSS
+Serve para estilizar o site
+
+para a visualização ficar a mesma tanto no computador quanto no celular
+é necessário usarmos as seguintes info na caixa maior (para não sumir as info)
+widht: 95px
+max-width: 420px
+
+02/02/2023 = VOCE PROGRAMADOR COM RODOLFO MORI
+#SUPERAÇÃO
+JAVA SCRIPT
+Ele da vida, faz funcionar ou que faz a rotação do site.
+
+console.log (ele mostra na tela o que você digitou)
+variáveis no JavaScript
+é um espaço da memoria do computador que guardamos algo (número, texto)
+
+função: é um trecho de código que só é executado quando chamado.
+
+
+
+
+-----------------------------------------------------------
+Siglas:
+para comentar usamos /*  */
+
+<head> - Onde está os stilos da aplicação (cabeça).
+<H2> - Titulo
+<p> - Texto
+stylesheet - folha de estilo em cascata
+* - Significa tudo - você vai selecionar todos os elementos do HTML
+margin - serva para distanciar a parte de fora do componente, quadro.(externo)
+padding - é um espaçamento dentro do componente, quadro. (interno)
+box sizing - 
+width - largura
+display - ele determina como os elementos aparece na tela.
+height vh- altura
+width vw - largura
+font size - tamanho do texto
+place holder - é o tempo que fica na barra de digitação
+outline - linha quando selecionado o elemento.
+border radius - arredondamento das bordas
+opacity - transparencia do item
+float - jogar para o lado que quiser (right\left)
+button:hover - é o evento de passar o mouse por algum lugar.
+cursor - para quando o mouse passar em uma região aparece uma mão.
+async - serve para acionarmos ou acessar o servidor.
+await - para buscar as informações ele demora alguns segundos e ele
+serve para aguardar até as info chegar.
+fetch - é a ferramenta que vai até o servidor e puxar as info
+innerHTML - sempre quando você quer inserir algo do html
+Math.floor - é responsável por fazer o arredondamento das info no caso os (graus °C)
+text transfor - capitalize - deixar sempre a 1ª letra maiuscula.
